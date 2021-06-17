@@ -1,0 +1,16 @@
+C:\Users\David\RiderProjects\graph\graph\bin\Debug\net5.0\graph.exe
+C:\Users\David\RiderProjects\graph\graph\bin\Debug\net5.0\graph.deps.json
+C:\Users\David\RiderProjects\graph\graph\bin\Debug\net5.0\graph.runtimeconfig.json
+C:\Users\David\RiderProjects\graph\graph\bin\Debug\net5.0\graph.runtimeconfig.dev.json
+C:\Users\David\RiderProjects\graph\graph\bin\Debug\net5.0\graph.dll
+C:\Users\David\RiderProjects\graph\graph\bin\Debug\net5.0\ref\graph.dll
+C:\Users\David\RiderProjects\graph\graph\bin\Debug\net5.0\graph.pdb
+C:\Users\David\RiderProjects\graph\graph\obj\Debug\net5.0\graph.csprojAssemblyReference.cache
+C:\Users\David\RiderProjects\graph\graph\obj\Debug\net5.0\graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\RiderProjects\graph\graph\obj\Debug\net5.0\graph.AssemblyInfoInputs.cache
+C:\Users\David\RiderProjects\graph\graph\obj\Debug\net5.0\graph.AssemblyInfo.cs
+C:\Users\David\RiderProjects\graph\graph\obj\Debug\net5.0\graph.csproj.CoreCompileInputs.cache
+C:\Users\David\RiderProjects\graph\graph\obj\Debug\net5.0\graph.dll
+C:\Users\David\RiderProjects\graph\graph\obj\Debug\net5.0\ref\graph.dll
+C:\Users\David\RiderProjects\graph\graph\obj\Debug\net5.0\graph.pdb
+C:\Users\David\RiderProjects\graph\graph\obj\Debug\net5.0\graph.genruntimeconfig.cache
